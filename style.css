@@ -1,0 +1,12 @@
+/*regola di style */
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@400;500;600;700&display=swap');
+
+h1 {
+    font-size: 24px;
+    color: red;
+}
+
+body {
+    font-family: 'Edu NSW ACT Foundation', cursive;
+
+}
