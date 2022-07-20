@@ -8,5 +8,29 @@ h1 {
 
 body {
     font-family: 'Edu NSW ACT Foundation', cursive;
+    background-image: url("image/image1.png"),linear-gradient(45grad,#D95B89,#F2C4D5);
+    background-position: center;
+}
+.intro{
+    float: left;
+    border: 1px solid red;
+    box-sizing: border-box;
+    width: 35%;
+}
 
+#zen-supporting{
+    float: right;
+    border: 1px solid blue;
+    box-sizing: border-box;
+    width: 65%;
+}
+aside{
+    border: 1px solid green;
+}
+
+header{
+    border: 1px solid yellow;
+    border-radius: 50px  0px 50px 0px;
+    background-color: darkmagenta;
+    padding: 10px;
 }
